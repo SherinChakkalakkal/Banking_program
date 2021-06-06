@@ -3,9 +3,9 @@ print("second change")
 
 print("new feature branch is updated")
 
-print("new feature branch codes")
+print("text")
 
-print("new feature branch extended")
+print("tim is great")
 print("new feature branch extended using new branch")
 
 
